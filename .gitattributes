@@ -1,0 +1,6 @@
+# Traitement des fins de ligne pour les fichiers texte
+* text=auto
+
+# Force LF pour les fichiers JavaScript et JSON
+*.js text eol=lf
+*.json text eol=lf
